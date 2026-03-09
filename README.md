@@ -22,6 +22,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 
 - [Dotty](https://github.com/codymullins/dotty) - Terminal emulator built with `.NET` + libghostty.
 - [Echo](https://replay.software/echo) - A fast, modern SSH and Mosh client for iOS and iPadOS powered by Ghostty.
+- [fantastty](https://github.com/blaine/fantastty) - A macOS terminal emulator built on Ghostty's libghostty with session workspaces, notes, and live tab previews
 - [Ghostree](https://github.com/sidequery/ghostree) - A fork of Ghostty with native support for git worktree & AI agents.
 - [RootShell](https://github.com/jc00ke/awesome-libghostty/) - The terminal, reimagined for Apple platforms.
 - [Spectty](https://github.com/ocnc/spectty) - A fast native SSH & Mosh terminal for iOS.
