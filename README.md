@@ -15,6 +15,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 
 - [Ghostty](https://github.com/ghostty-org/ghostty) - Reference implementation and home of libghostty.
 - [ghostty-opentui](https://github.com/remorses/ghostty-opentui) - A fast ANSI/VT terminal parser powered by libghostty-vt, with JSON output, plain text stripping, and a TUI viewer built on OpenTUI.
+- [libghostty-dart](https://github.com/elias8/libghostty) - Dart FFI bindings to libghostty-vt for building terminal emulators in Flutter.
 - [libghostty-spm](https://github.com/Lakr233/libghostty-spm) - Prebuilt GhosttyKit.xcframework distributed as a Swift Package for easy integration.
 - [Restty](https://github.com/wiedymi/restty) - A lightweight web terminal library powered by libghostty-vt, WebGPU, and text-shaper, with xterm.js API compatibility.
 - [Zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes, using libghostty-vt for terminal state restore.
