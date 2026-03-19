@@ -42,6 +42,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [browstty](https://github.com/Snoupix/browstty) - A Zig WASM module that implements libghostty to emulate a terminal in the browser.
 - [ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility.
 - [mdnb](https://mdnb.app) - A native macOS markdown editor with git sync + embedded Ghostty terminal.
+- [obsidian-ghostty-terminal](https://github.com/lavs9/obsidian-ghostty-terminal) - True Ghostty terminal (libghostty-vt WASM) embedded in Obsidian with multi-split support and file-explorer context menu.
 - [pynb](https://pynb.app/) - A native macOS Jupyter-compatible Python notebook app with an embedded Ghostty terminal.
 - [webterm](https://github.com/rcarmo/webterm) - A web terminal server with a dashboard mode and live terminal tiles, using ghostty-web for WebAssembly-based rendering.
 
