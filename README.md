@@ -52,6 +52,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 
 - [cmux](https://github.com/manaflow-ai/cmux) - A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents.
 - [Commander](https://commanderai.app/) - A native macOS AI workspace for coding agents with diff review, git workflow, and worktree management.
+- [frep](https://github.com/emmettlu/frep) - An agentic terminal emulator built on libghostty.
 - [Mux](https://github.com/coder/mux) - Desktop and browser app for isolated, parallel agentic development.
 - [Supacode](https://github.com/supabitapp/supacode) - An open-source native macOS command center for running coding agents in parallel, powered by libghostty.
 - [tuidoscope](https://github.com/shuv1337/tuidoscope) - A terminal multiplexer for TUI apps with tab sidebar, fuzzy command palette, session persistence, and vim-style navigation, built with OpenTUI, SolidJS, and libghostty.
